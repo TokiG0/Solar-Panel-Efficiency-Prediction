@@ -7,18 +7,6 @@
 
 ---
 
-## 🔗 Quick Navigation
-- [Overview](#overview)
-- [Tools & Technologies](#tools--technologies)
-- [Methodology](#methodology)
-- [File Mapping](#file-mapping)
-- [Reproduction Steps](#reproduction-steps)
-- [Key Learnings](#key-learnings--innovations)
-- [Final Model](#final-model)
-- [Conclusion](#conclusion)
-
----
-
 ## 📘 Overview
 
 This project applies a structured machine learning pipeline to forecast solar panel efficiency using environmental and operational data. The final model leverages ensemble learning and advanced feature engineering to achieve high predictive accuracy.
